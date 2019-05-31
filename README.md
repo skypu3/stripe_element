@@ -1,2 +1,3 @@
-# stripe_element
-stripe_element
+firebase deploy
+update element5.js
+start ngrok to test new payment
